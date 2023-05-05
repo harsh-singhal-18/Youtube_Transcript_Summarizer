@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+body{
+    width: max-content;
+    max-width: 800px;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 8px;
+    width: max-content;
+    height: max-content;
+    padding: 10px;
+    font-size: large;
+    margin: auto;
+    display: block;
+}
+button[disabled]{
+    background-color: rgb(133, 126, 126);
+    color: white;
+    border-radius: 8px;
+    width: max-content;
+    height: max-content;
+    padding: 10px;
+    font-size: large;
+    margin: auto;
+    display: block;
+}
+p{
+    font-size: medium;
+}
+.box1{
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    padding: 10px;
+}
+.box2{
+    width:auto;
+    height: auto;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    padding: 10px;
+
+}
